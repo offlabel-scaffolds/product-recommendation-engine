@@ -2,15 +2,15 @@
 
 ML-powered product recommendation system with collaborative filtering
 
-## 🎯 Features
+## What's Inside
 
-- ✅ Collaborative Filter
-- ✅ Real-time
-- ✅ A/B Testing
-- ✅ Analytics
-- ✅ Personalization
+- Collaborative Filter
+- Real-time
+- A/B Testing
+- Analytics
+- Personalization
 
-## 🛠️ Tech Stack
+## Built With
 
 - Python
 - TensorFlow
@@ -18,7 +18,7 @@ ML-powered product recommendation system with collaborative filtering
 - Redis
 - PostgreSQL
 
-## 🚀 Quick Start
+## Installation
 
 ```bash
 # Clone the repository
@@ -34,19 +34,19 @@ cp .env.example .env
 python main.py
 ```
 
-## 📚 Documentation
+## Documentation
 
 - [Getting Started](./docs/getting-started.md)
 - [API Reference](./docs/api-reference.md)
 - [Deployment Guide](./docs/deployment.md)
 - [Security Best Practices](./docs/security.md)
 
-## 🏢 Use Cases
+## Use Cases
 
 - **Ecommerce**
 - **Ai-ml**
 
-## 🔒 Compliance & Security
+## Compliance & Security
 
 This scaffold includes built-in compliance features for:
 
@@ -55,14 +55,14 @@ This scaffold includes built-in compliance features for:
 - Rate limiting and DDoS protection
 - Security headers and CORS
 
-## 📄 License
+## License
 
 MIT License - see [LICENSE](./LICENSE)
 
-## 🤝 Contributing
+## Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ---
 
-Built with care and coffee ☕ by [Offlabel Design](https://offlabel.design)
+Built with care and coffee by [Offlabel Design](https://offlabel.design)
