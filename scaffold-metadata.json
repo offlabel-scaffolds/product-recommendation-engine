@@ -1,0 +1,43 @@
+{
+  "name": "product-recommendation-engine",
+  "displayName": "AI Product Recommendations",
+  "description": "ML-powered product recommendation system with collaborative filtering",
+  "version": "1.0.0",
+  "author": "Augustus Rivers - Offlabel Design",
+  "license": "MIT",
+  "repository": "https://github.com/offlabel-scaffolds/product-recommendation-engine",
+  "tech": [
+    "Python",
+    "TensorFlow",
+    "FastAPI",
+    "Redis",
+    "PostgreSQL"
+  ],
+  "categories": [
+    "ai-ml",
+    "backend",
+    "ecommerce"
+  ],
+  "usecases": [
+    "ecommerce",
+    "ai-ml"
+  ],
+  "priority": "high",
+  "maturity": "stable",
+  "complexity": "advanced",
+  "features": [
+    "Collaborative Filter",
+    "Real-time",
+    "A/B Testing",
+    "Analytics",
+    "Personalization"
+  ],
+  "hasDemo": true,
+  "hasCLI": false,
+  "securityFeatures": [
+    "Authentication",
+    "Rate Limiting",
+    "CORS"
+  ],
+  "lastUpdated": "2025-10-03"
+}
